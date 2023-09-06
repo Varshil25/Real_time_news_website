@@ -1,5 +1,6 @@
 # Real_time_news_website
 Real time news website using in shorts API.
+Use PyCharm tool.
 Create one Project name as news.
   In Project settings.py add app configure  and add all news/urls.py
 Create One app name as Categories.
